@@ -13,3 +13,5 @@ http://developer.android.com/training/basics/activity-lifecycle/starting.html
 Lifecycle of Callbacks:
 http://developer.android.com/training/basics/activity-lifecycle/starting.html
 
+Starting out:
+http://www.javacodegeeks.com/2013/06/android-studio-getting-started-with-the-new-android-ide.html
